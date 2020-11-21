@@ -40,7 +40,7 @@ parser.add_argument(
     '--image_label', 
     type=str,
     required=True,
-    help='Label da imagem')
+    help='Label do conjunto de imagens')
 
 parser.add_argument(
     '-si', 
