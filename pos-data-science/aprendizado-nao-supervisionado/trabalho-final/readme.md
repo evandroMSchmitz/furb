@@ -21,71 +21,71 @@ Este arquivo aceita os seguintes argumentos:
 ```console
 Dados de treino: 288 casos
 Dados de teste: 123 casos
-10 componentes principais, acurácia: 93.50%
+10 componentes principais, acurácia: 90.24%
+Corretos: 111
+Distância mínima: 134.88780590312552
+Distância máxima: 2338.630704335874
+Distância média: 686.21093745969
+********************
+11 componentes principais, acurácia: 91.06%
+Corretos: 112
+Distância mínima: 136.2279150930823
+Distância máxima: 2373.9400191038385
+Distância média: 716.3938158437263
+********************
+12 componentes principais, acurácia: 92.68%
+Corretos: 114
+Distância mínima: 140.79395558417872
+Distância máxima: 2461.5880132695065
+Distância média: 743.4790726202218
+********************
+13 componentes principais, acurácia: 93.50%
 Corretos: 115
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 671.2383089482505
+Distância mínima: 140.79410628434243
+Distância máxima: 2462.3970937422
+Distância média: 762.1586435102096
 ********************
-11 componentes principais, acurácia: 94.31%
+14 componentes principais, acurácia: 93.50%
+Corretos: 115
+Distância mínima: 140.8091650638214
+Distância máxima: 2484.5877221689825
+Distância média: 783.5716169188278
+********************
+15 componentes principais, acurácia: 93.50%
+Corretos: 115
+Distância mínima: 141.3500503751107
+Distância máxima: 2565.024367535039
+Distância média: 811.30986398111
+********************
+16 componentes principais, acurácia: 94.31%
 Corretos: 116
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 704.744240450055
+Distância mínima: 149.16879305729503
+Distância máxima: 2668.7398928411267
+Distância média: 830.0657538072555
 ********************
-12 componentes principais, acurácia: 95.12%
+17 componentes principais, acurácia: 95.12%
 Corretos: 117
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 727.5108571986297
+Distância mínima: 155.64011999342412
+Distância máxima: 2670.411396670196
+Distância média: 845.3228385775507
 ********************
-13 componentes principais, acurácia: 95.12%
-Corretos: 117
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 744.689468839175
+18 componentes principais, acurácia: 94.31%
+Corretos: 116
+Distância mínima: 166.9409661461254
+Distância máxima: 2688.16396096212
+Distância média: 859.224249338427
 ********************
-14 componentes principais, acurácia: 95.12%
-Corretos: 117
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 773.2679991418419
+19 componentes principais, acurácia: 94.31%
+Corretos: 116
+Distância mínima: 172.28431892494157
+Distância máxima: 2692.445881385788
+Distância média: 871.9779875048241
 ********************
-15 componentes principais, acurácia: 95.12%
-Corretos: 117
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 792.3140048147998
-********************
-16 componentes principais, acurácia: 95.12%
-Corretos: 117
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 806.164441357056
-********************
-17 componentes principais, acurácia: 95.93%
-Corretos: 118
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 826.7835694314474
-********************
-18 componentes principais, acurácia: 95.93%
-Corretos: 118
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 842.8115075153814
-********************
-19 componentes principais, acurácia: 95.93%
-Corretos: 118
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 859.6278299005254
-********************
-20 componentes principais, acurácia: 95.93%
-Corretos: 118
-Distância mínima: 2.2250738585072014e-308
-Distância máxima: 1.7976931348623157e+308
-Distância média: 876.983124159313
+20 componentes principais, acurácia: 94.31%
+Corretos: 116
+Distância mínima: 186.20232558722697
+Distância máxima: 2812.7502829468212
+Distância média: 886.7705964099902
 ********************
 ```
 

@@ -87,8 +87,8 @@ def run_EigenFaceRecognizer(path: str):
 
         model.train(src, np.asarray(labels))
 
-        max_distance = sys.float_info.max
-        min_distance = sys.float_info.min
+        max_distance = sys.float_info.min
+        min_distance = sys.float_info.max
         mean_distance = 0
         corrects = 0
         true_positives = 0
